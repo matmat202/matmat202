@@ -2,7 +2,7 @@
 
 Stanford undergraduate, class of 2029 — undeclared, weighing Math with CS or MS&E. I model real systems and then check the model against the thing itself: freight networks, arteries, airline routes, and a lot of small public-data tools.
 
-**Looking for:** a summer 2027 internship in software, data, fintech or quant · [LinkedIn](https://www.linkedin.com/in/mateolopezelizondo/)
+**Looking for:** a summer 2027 internship in software, data, fintech or quant · [LinkedIn](https://www.linkedin.com/in/mateolopezelizondo/) · [matlo202@stanford.edu](mailto:matlo202@stanford.edu) · [Resume](resume.pdf)
 
 #### Work and research
 
@@ -26,6 +26,9 @@ Not on GitHub: the Alvarez & Marsal platform is client work, and a C++ particle 
 One project, and the largest thing here. A Claude Code setup I run on my own machine under a written operating contract: it picks a question worth answering, builds a static page that answers it, writes its own tests, and publishes only once they pass. Several of the sites refresh themselves every morning on GitHub Actions. The commits are the agent's and the history shows it — what I built is the system, not the pages.
 
 **[All 21 sites](https://matmat202.github.io/)** — pick of them:
+
+[![The Stanford Dining site: a day strip, meal tabs, a dish search box, and two dining-hall cards listing the evening's dishes with allergen tags](assets/stanford-dining-menus.png)](https://matmat202.github.io/stanford-dining-menus/)
+*stanford-dining-menus, the most-used of them.*
 
 - **[stanford-dining-menus](https://matmat202.github.io/stanford-dining-menus/)**: Every Stanford dining hall menu for the week, on one page, built for phones. Unofficial.  
   *Refreshes itself every day on GitHub Actions; keeps a history of which dishes each hall serves.* `scraper` `pwa` `leaflet` · [code](https://github.com/matmat202/stanford-dining-menus)
