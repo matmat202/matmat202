@@ -71,3 +71,5 @@ One project, and the largest thing here. A Claude Code setup I run on my own mac
 </details>
 
 Data from ExploreCourses, OpenAlex, Wikidata, OpenStreetMap, Social Security, NOAA, Open-Meteo, USGS, Our World in Data, Wikipedia. Every site is a static page; nothing asks you to sign in.
+
+**[gpu-lab](https://github.com/matmat202/gpu-lab)**: Not a site: a native Rust + wgpu app from the same sandbox. One million particles stepped by a compute shader and drawn from the same GPU buffer, with HDR trails and the mouse as a force; its n-body preset collides two disk galaxies, 16,384 bodies all-pairs, at ~2.6e10 interactions per second on a laptop's integrated GPU. `rust` `wgpu` `compute-shader`
